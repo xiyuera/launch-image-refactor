@@ -1,6 +1,6 @@
 {
 	"name": "ios-launchimg",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "根据图片的尺寸对比目标文件夹的图片进行自动重命名",
 	"main": "./lib/index.js",
 	"scripts": {
