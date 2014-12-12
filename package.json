@@ -31,5 +31,9 @@
   },
   "bin": {
     "ios-launchimg": "./lib/maker.js"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/xiyuera/launch-image-refactor/issues"
+  },
+  "homepage": "https://github.com/xiyuera/launch-image-refactor"
 }
