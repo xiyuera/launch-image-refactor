@@ -23,7 +23,6 @@
   "dependencies": {
     "underscore": "",
     "underscore.string": "",
-    "imagemagick": "",
     "commander": "*",
     "async": "*",
     "strformat": "*",
