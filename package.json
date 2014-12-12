@@ -1,38 +1,38 @@
 {
 	"name": "ios-launchimg",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "根据图片的尺寸对比目标文件夹的图片进行自动重命名",
 	"main": "./lib/index.js",
 	"scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/xiyuera/launch-image-refactor.git"
-  },
-  "keywords": [
-    "ios",
-    "launch",
-    "image"
-  ],
-  "author": {
-    "name": "xiyuera",
-    "email": "xiyuera@gmail.com"
-  },
-  "license": "MIT",
-  "dependencies": {
-    "underscore": "",
-    "underscore.string": "",
-    "commander": "*",
-    "async": "*",
-    "strformat": "*",
-    "image-size": "*"
-  },
-  "bin": {
-    "ios-launchimg": "./lib/maker.js"
-  },
-  "bugs": {
-    "url": "https://github.com/xiyuera/launch-image-refactor/issues"
-  },
-  "homepage": "https://github.com/xiyuera/launch-image-refactor"
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/xiyuera/launch-image-refactor.git"
+	},
+	"keywords": [
+		"ios",
+		"launch",
+		"image"
+	],
+	"author": {
+		"name": "xiyuera",
+		"email": "xiyuera@gmail.com"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"underscore": "",
+		"underscore.string": "",
+		"commander": "*",
+		"async": "*",
+		"strformat": "*",
+		"image-size": "*"
+	},
+	"bin": {
+		"ios-launchimg": "./lib/maker.js"
+	},
+	"bugs": {
+		"url": "https://github.com/xiyuera/launch-image-refactor/issues"
+	},
+	"homepage": "https://github.com/xiyuera/launch-image-refactor"
 }
