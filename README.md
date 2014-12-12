@@ -14,9 +14,11 @@ npm install -g ios-launchimg
 ```
 
 #usage
+
 ```
 ios-launchimg path/to/compare/dir [path/to/target/dir]
 ```
+
 Target dir is default current path.
 
 Target dir's images will auto renamed if there's an image with the same size.
